@@ -1,5 +1,5 @@
 # redactor-instagram
-Redactor Instagram Plugin
+Redactor Instagram Plugin (for https://imperavi.com/redactor/)
 
 Allows you to embed Instagram posts
 
